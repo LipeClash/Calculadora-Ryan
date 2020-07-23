@@ -28,7 +28,7 @@ Baixe o arquivo abaixo. Descompate na pasta desejada.
 Execute utilizando o comando:
 
 ```
----- dotnet Escala-Musical.dll ----
+---- dotnet Calculadora-Ryan.dll ----
 ```
 
 Ou se estiver no Windows, de um duplo-click no programa ou clique com o botão direito do mouse, e depois clique em Executar como Administrador.
@@ -44,7 +44,6 @@ Ou se estiver no Windows, de um duplo-click no programa ou clique com o botão d
 - [Felipe Barbosa](https://github.com/LipeClash?tab=repositories)
 - [Prof. Ermogenes Palacio](https://github.com/ermogenes/aulas-programacao-csharp)
 - [Prof. Diego Neri](https://github.com/diegoneri)
-- [Matheus Khairallah](https://github.com/MatheusKhairallah?tab=repositories)
 
 ---
 
