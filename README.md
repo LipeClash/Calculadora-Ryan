@@ -48,4 +48,4 @@ Ou se estiver no Windows, de um duplo-click no programa ou clique com o botão d
 
 ---
 
-                                                         Todos os direitos reservados.
+                                                       Todos os direitos reservados.
